@@ -25,4 +25,4 @@ Animaster es una páguina web donde se pueden descargar series tipo anime donde 
 
 
 **Capturar Ventanas**
-![](https://github.com/ivanlopez0k/HTML-Proyecto-Final/blob/master/Captura%20de%20pantalla%20(2).png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%201.png)
