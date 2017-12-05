@@ -24,12 +24,14 @@ Animaster es una páguina web donde se pueden descargar series tipo anime donde 
 * En  informacion es mas amplia los datos de cada serie y presenta imagenes para tener una idea de como son.
 * Tiene indicado el peso de descarga y su duración.
 
+Trello Link: https://trello.com/b/lmnQ5bv9/animazter
+
 
 **Capturar Ventanas**
+* paguina Principal
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%201.png)
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%202.png)
-![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%203.png)
-![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%204.png)
+* Dentro de la descripcon del anime:
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%205.png)
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%206.png)
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%207.png)
