@@ -28,10 +28,10 @@ Trello Link: https://trello.com/b/lmnQ5bv9/animazter
 
 
 **Capturar Ventanas**
-* paguina Principal
+# Páguina Principal:
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%201.png)
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%202.png)
-* Dentro de la descripcon del anime:
+# Dentro de la descripcon del anime:
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%205.png)
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%206.png)
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%207.png)
