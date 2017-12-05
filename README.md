@@ -2,7 +2,7 @@
 
 # HTML-Proyecto-Final
 
-# TOP100DJRAW # 
+# Animaster -Anime En Mega- # 
 **Alumno:** Bruno Cavazza
 **Curso:** 5° "C"
 **Materia:** Sistema de Información
@@ -26,3 +26,10 @@ Animaster es una páguina web donde se pueden descargar series tipo anime donde 
 
 **Capturar Ventanas**
 ![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%201.png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%202.png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%203.png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%204.png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%205.png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%206.png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%207.png)
+![](https://github.com/BrunoCavazza/Animaster/blob/master/Captura%20de%20pantalla%208.png)
